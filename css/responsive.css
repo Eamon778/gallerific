@@ -5,6 +5,7 @@
     .search_area {padding-top: 25px;}
     .inner_hero {-webkit-flex-direction:column;flex-direction:column;}
     .hero_img {margin:0 auto;}
+    .hero_img img {width:100%;}
     .hero_text {padding-top: 40px;}
     .inner_banner h2 {line-height: 1.3em;padding-top:40px;}
 }
